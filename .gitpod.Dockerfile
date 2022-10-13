@@ -1,3 +1,3 @@
-FROM reslp/rmarkdown
+FROM dolphinnext/rmarkdown
 
 COPY . .
