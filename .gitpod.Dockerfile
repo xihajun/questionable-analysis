@@ -1,3 +1,3 @@
-FROM gitpod/workspace-full
+FROM reslp/rmarkdown
 
-RUN brew install R
+COPY . .
