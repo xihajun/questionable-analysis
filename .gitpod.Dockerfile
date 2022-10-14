@@ -1,4 +1,4 @@
-FROM rocker/r-rmd
+FROM xihajun/mphil_practical_ss:latest
 
 COPY . .
 
